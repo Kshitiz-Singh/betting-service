@@ -48,7 +48,7 @@ docker-compose up -d
 ### 2. Run the Application
 
 ```bash
-./mvnw spring-boot:run
+mvnw spring-boot:run
 ```
 
 The service starts on `http://localhost:8080`.
